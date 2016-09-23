@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/top.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/MemberRegistrationConfirm.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/LoginConfirmation.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/reviews.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/AreaConfirm.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/UserDataDTO.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/ReviewsConfirm.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/memberRegistration.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/JumsHelper.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/search.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/SalonDataDTO.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/logout.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/salonDetail.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/MemberRegistration.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/WEB-INF/web.xml</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/logout.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/memberRegistrationConfirm.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/index.html</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/searchresult.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/MemberRegistrationComplete.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/base/DBManager.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/login.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/error.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/ReviewsDataDTO.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/reviewsConfirm.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/memberRegistrationComplete.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/Search.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/AreaBeans.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/reviewsComplete.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/web/Area.jsp</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/UserDataDAO.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/UserDataBeans.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/ziiko.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/ReviewsComplete.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/ReviewsDataBeans.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/Json.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/Salon.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/SalonBeans.java</file>
+            <file>file:/Users/yuya/NetBeansProjects/originalSite/src/java/jums/Area.java</file>
+        </group>
+    </open-files>
+</project-private>
